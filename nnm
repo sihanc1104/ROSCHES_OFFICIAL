@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ROSCHÉS - Official Website</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: "Georgia", "Helvetica Neue", sans-serif;
+      background-color: #ebe4f5; /* 淡紫色背景 */
+      color: white;
+      text-align: center;
+    }
+    header {
+      background-color: #c8bfe7; /* 深一点的紫 */
+      padding: 50px 20px;
+      font-size: 36px;
+      letter-spacing: 4px;
+      font-weight: bold;
+    }
+    main {
+      background-color: white;
+      color: #4a4a4a;
+      padding: 60px 20px;
+      border-radius: 16px;
+      margin: 40px auto;
+      max-width: 700px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+    }
+    button {
+      background-color: #add8f7; /* 浅蓝色按钮 */
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      border-radius: 8px;
+      font-size: 18px;
+      margin-top: 20px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <header>ROSCHÉS</header>
+  <main>
+    <h2>Welcome to ROSCHÉS Official Website</h2>
+    <p>We are a unique brand focused on creativity and youth.</p>
+    <button>Learn More</button>
+  </main>
+</body>
+</html>
